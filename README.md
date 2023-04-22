@@ -14,8 +14,10 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 </br>
 <p align="center">
-      Encode with Marshal,zilb,base16,base32 &amp; base64 File..
 
+### What is Python Encrypt ?
+
+Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
 
 </p>
   
