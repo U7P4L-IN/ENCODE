@@ -1,12 +1,4 @@
-![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
-
-
-
-🌺Welcome🌺
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
-
-
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/PYTHON_ENCRYPTION.png">
 
 AUTHOR:
 <p align="center">
@@ -41,6 +33,8 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
 
  python encode.py
 ```
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
+
 #### Screenshots:
 
 ### Demo 1
