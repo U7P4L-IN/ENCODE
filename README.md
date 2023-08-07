@@ -39,11 +39,11 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
 
 ### Demo 1
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/Screenshot_2023-07-15-15-57-53-739_com.termux-01.jpeg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/XRecorder_07082023_174403-01.jpeg">
 
 ### Demo 2
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/Screenshot_2023-07-15-15-58-27-326_com.termux-01.jpeg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/XRecorder_07082023_180904-01.jpeg">
 
 
 #### Tools Languages :
