@@ -51,3 +51,6 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENCODE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ### Thanks For Visiting 🧡🧡
+# Give A Star ⭐
+
+You can also give this repository a star to show more people and they can use this repository
