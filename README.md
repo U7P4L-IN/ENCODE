@@ -27,11 +27,8 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
  cd $HOME 
  rm -rf ENCODE
  git clone --depth=1 https://github.com/U7P4L-IN/ENCODE.git
-
  cd ENCODE
-
  ls
-
  python encode.py
 ```
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
