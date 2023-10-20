@@ -33,9 +33,9 @@ Python Encrypt is a tool that's help you to secure your important script. You ca
 ```
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
 
-#### Screenshots:
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/ScreenShot_20231020020416.png">
 
-### Demo 1
+  #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/GridArt_20231018_121328668.jpg">
 
