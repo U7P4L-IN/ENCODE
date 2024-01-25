@@ -36,13 +36,13 @@ python3 encode.py
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
 
 <p align="center"><img src="/image/Screenshot from 2024-01-25 10-54-25.png">
+ <p align="center"><img src="/image/Screenshot from 2024-01-25 10-54-26.png">  
 
-  #### Screenshots:
+ ### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/GridArt_20240115_180400447.jpg">
-<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/GridArt_20240115_180400448.jpg">
 
-#### Tools Languages :
+ ### Tools Languages :
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENCODE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
