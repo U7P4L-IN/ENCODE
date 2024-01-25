@@ -36,10 +36,9 @@ python3 encode.py
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/carbon%20(4).png">
 
 <p align="center"><img src="/image/Screenshot from 2024-01-25 10-54-25.png">
- <p align="center"><img src="/image/Screenshot from 2024-01-25 10-54-26.png">  
-
- ### Screenshots:
-
+<p align="center"><img src="/image/Screenshot from 2024-01-25 10-56-22.png">  
+    
+### Screenshots:
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/GridArt_20240115_180400447.jpg">
 
  ### Tools Languages :
