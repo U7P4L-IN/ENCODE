@@ -38,8 +38,8 @@ python3 encode.py
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/Screenshot%20from%202024-01-28%2016-47-18.png">
 <p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/photo_2024-01-30_13-48-38.jpg">  
     
-### Screenshots:
-<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/GridArt_20240115_180400447.jpg">
+### Result:
+<p align="center"><img src="https://github.com/U7P4L-IN/ENCODE/blob/main/image/Screenshot%20from%202024-01-25%2010-56-22.png">
 
  ### Tools Languages :
 
