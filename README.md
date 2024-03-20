@@ -14,17 +14,14 @@
    </p>
    
 </br>
-<p align="center">
 
-### What is Python Encrypt ?
+<h2 align="center">What is Python Encrypt ? > </h2><br>
 
-Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
+> Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
 
-</p>
-  
-#### INSTALL TOOL ON TERMUX
+<h2 align="center">INSTALL TOOL ON TERMUX > </h2><br>
+ 
 ```python
-
 apt update && apt upgrade -y
 pkg install git
 pkg install python
@@ -34,20 +31,23 @@ git clone --depth=1 https://github.com/U7P4L-IN/ENCODE.git
 cd ENCODE
 python3 encode.py
 ```
-<p align="center"><img src="/image/carbon%20(4).png">
+<p align="center"><img src="/image/carbon.png">
 
 <h5 align="center"><b>TERMUX</b></h5>
 
 <p align="center"><img src="/image/demo1.jpg">
 
+<p align="center";><img src="/image/demo2.jpg"> 
+
 <h5 align="center"><b>KALI LINUX</b></h5>
 
-<p align="center"><img src="/image/demo2.png">  
+<p align="center"><img src="/image/demo3.png">  
     
 ### Result:
-<p align="center"><img src="/image/demo3.png">
+<p align="center"><img src="/image/demo4.png">
 
 ### Tools Languages :
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENCODE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
 </p>
