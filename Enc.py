@@ -1,3 +1,3 @@
-inport os
+import os
 import encode
 encode.login()
