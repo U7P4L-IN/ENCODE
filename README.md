@@ -31,8 +31,6 @@
 ## Contributing
 Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
 
-
-
 <h2 align="center">INSTALL TOOL ON TERMUX > </h2><br>
  
 ```python
@@ -55,8 +53,7 @@ python3 encode.py
 <h5 align="center"><b>KALI LINUX</b></h5>
 <p align="center"><img src="./image/demo3.png">
 <p align="center"><img src="./image/demo4.png">  
-    
-### Result:
+   
 <p align="center"><img src="./image/demo5.png">
 
 ### Tools Languages :

@@ -1,3 +1,2 @@
-inport os
-import encode
-encode.login()
+import os
+os.system("python encode.py")
